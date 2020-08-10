@@ -14,8 +14,10 @@ body
 
 .block.dark img {
     position: relative;
-    left: 126px;
+    left: 130px;
     top: 12px;
+    margin-top: 50px;
+
 }
 
 .block 
